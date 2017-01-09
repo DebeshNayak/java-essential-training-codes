@@ -1,7 +1,5 @@
 package com.example.java;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
 public class Main {
 
     // default value of boolean data type is false
