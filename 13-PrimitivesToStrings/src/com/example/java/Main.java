@@ -1,7 +1,5 @@
 package com.example.java;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
 import java.text.NumberFormat;
 
 public class Main {
