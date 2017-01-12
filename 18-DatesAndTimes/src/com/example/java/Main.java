@@ -1,7 +1,5 @@
 package com.example.java;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-
 import java.text.DateFormat;
 import java.time.LocalDate;
 import java.time.LocalDateTime;

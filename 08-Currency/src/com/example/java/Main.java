@@ -14,8 +14,8 @@ public class Main {
 
         String strValue = Double.toString(value);
         System.out.println("strValue: " + strValue);
-        BigDecimal bigValue = new BigDecimal(strValue);
 
+        BigDecimal bigValue = new BigDecimal(strValue);
         BigDecimal bSum = bigValue.add(bigValue).add(bigValue);
         System.out.println("Sum of BigDecimal: " + bSum.toString());
     }
